@@ -1,0 +1,6 @@
+{
+  "input_format": "internal",
+  "output_format": "internalCSV",
+  "input_path": "datasets\\internal",
+  "output_path": "datasets\\internalCSV"
+}
